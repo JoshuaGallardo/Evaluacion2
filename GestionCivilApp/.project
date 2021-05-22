@@ -3,6 +3,7 @@
 	<name>GestionCivilApp</name>
 	<comment></comment>
 	<projects>
+		<project>GestionCivilModel</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

@@ -27,8 +27,8 @@
 						<a class="navbar-link"> Solicitud de Cédula </a>
 
 						<div class="navbar-dropdown">
-							<a class="navbar-item" href="AgregarConsolaController.do"> Ingresar Solicitud </a> 
-							<a class="navbar-item" href="VerConsolasController.do">	Atender Solicitud </a> 
+							<a class="navbar-item" href="IngresarSolicitudController.do"> Ingresar Solicitud </a> 
+							<a class="navbar-item" href="AtenderSolicitudController.do"> Atender Solicitud </a> 
 					
 						</div>
 					</div>
