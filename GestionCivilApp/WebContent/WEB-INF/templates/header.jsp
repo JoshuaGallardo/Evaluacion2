@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
 <title>Gestion de Registro Civil </title>
 <link href="vendor/bulma/css/bulma.min.css" rel="stylesheet" />
 </head>

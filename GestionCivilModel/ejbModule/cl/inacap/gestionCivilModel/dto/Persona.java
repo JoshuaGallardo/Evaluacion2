@@ -3,8 +3,8 @@ package cl.inacap.gestionCivilModel.dto;
 public class Persona {
 
 	private String nombre;
-	private String apellido;
 	private String rut;
+	private String Solicitud;
 	private int nroAtencion;
 	
 	public String getNombre() {
@@ -13,11 +13,12 @@ public class Persona {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-	public String getApellido() {
-		return apellido;
+	
+	public String getSolicitud() {
+		return Solicitud;
 	}
-	public void setApellido(String apellido) {
-		this.apellido = apellido;
+	public void setSolicitud(String solicitud) {
+		Solicitud = solicitud;
 	}
 	public String getRut() {
 		return rut;

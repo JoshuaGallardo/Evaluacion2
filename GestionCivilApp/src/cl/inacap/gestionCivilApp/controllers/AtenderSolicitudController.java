@@ -21,7 +21,7 @@ public class AtenderSolicitudController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 	@Inject
-	private PersonaDAOLocal personasDAO;
+	private PersonaDAOLocal personasDAO2;
 	
 	
     /**
